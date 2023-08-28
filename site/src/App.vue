@@ -75,7 +75,8 @@ const items = [
             <span class="text-900">Your new home, </span>
             <span class="text-blue-600">ClearRP</span>
           </div>
-          <div class="text-700 mb-6">We understand the importance of an transactional, respectful and storied experience.</div>
+          <div class="text-700 mb-6">We understand the importance of an transactional, respectful and storied experience.
+          </div>
           <div class="grid">
             <div class="col-12 md:col-4 mb-4 px-5">
               <span class="p-3 shadow-2 mb-3 inline-block surface-card" style="border-radius: 10px">
@@ -83,7 +84,7 @@ const items = [
               </span>
               <div class="text-900 text-xl mb-3 font-medium">Rich Roleplay</div>
               <span class="text-700 line-height-3">We encourage and foster a wide array of <b>respectful, storied, and
-                transactional roleplay sessions.</b> Roleplay that is fun for everyone involved is our number one
+                  transactional roleplay sessions.</b> Roleplay that is fun for everyone involved is our number one
                 priority.</span>
             </div>
             <div class="col-12 md:col-4 mb-4 px-5">
@@ -112,7 +113,8 @@ const items = [
                 <i class="pi pi-globe text-4xl text-blue-500"></i>
               </span>
               <div class="text-900 text-xl mb-3 font-medium">Unlimited Opportunities</div>
-              <span class="text-700 line-height-3"><b>We don't believe in holding characters back from their potential.</b> Our
+              <span class="text-700 line-height-3"><b>We don't believe in holding characters back from their
+                  potential.</b> Our
                 team is constantly working to ensure players have the opportunities to see their characters at their best.
 
               </span>
@@ -122,16 +124,19 @@ const items = [
                 <i class="pi pi-github text-4xl text-blue-500"></i>
               </span>
               <div class="text-900 text-xl mb-3 font-medium">Active Developers</div>
-              <span class="text-700 line-height-3"><b>ClearRP is backed by a team of responsive and considerate developers</b>, who are constantly innovating to bring the community new experiences and scenarios. We regularly add new cars and items to our servers, and accept suggestions from all players in our forums.
+              <span class="text-700 line-height-3"><b>ClearRP is backed by a team of responsive and considerate
+                  developers</b>, who are constantly innovating to bring the community new experiences and scenarios. We
+                regularly add new cars and items to our servers, and accept suggestions from all players in our forums.
 
-</span>
+              </span>
             </div>
             <div class="col-12 md:col-4 md:mb-4 mb-0 px-3">
               <span class="p-3 shadow-2 mb-3 inline-block surface-card" style="border-radius: 10px">
                 <i class="pi pi-megaphone text-4xl text-blue-500"></i>
               </span>
               <div class="text-900 text-xl mb-3 font-medium">Streamer Friendly</div>
-              <span class="text-700 line-height-3"><b>ClearRP does not tolerate metagaming</b>, and streamers are welcome to play our server while live.</span>
+              <span class="text-700 line-height-3"><b>ClearRP does not tolerate metagaming</b>, and streamers are welcome
+                to play our server while live.</span>
             </div>
           </div>
         </div>
@@ -143,6 +148,5 @@ const items = [
         </div>
       </div>
     </div>
-  </div>
-</template>
+</div></template>
 
